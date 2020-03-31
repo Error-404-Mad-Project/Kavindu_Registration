@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopForMe</string>
+    <string name="userName">Name</string>
+    <string name="password">Password*</string>
+    <string name="register">REGISTER</string>
+    <string name="cancle">CANCLE</string>
+    <string name="fogotPassword">Fogot Password?</string>
+
+</resources>
