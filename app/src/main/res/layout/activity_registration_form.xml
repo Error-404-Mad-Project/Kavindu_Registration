@@ -176,7 +176,7 @@
         android:id="@+id/button"
         android:layout_width="190dp"
         android:layout_height="wrap_content"
-        android:background="#303F9F"
+        android:background="@drawable/button_border"
         android:text="@string/register"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
